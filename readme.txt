@@ -1,8 +1,7 @@
 Git is a distributed version control system
-Git is a free software  distributed under the GPL
+Git is a freedom software distributed under the GPL
 Git has a mutable index called stage
 Git tracks changes of files
 create a new branch is quick
 creating a new branch is quick and simple
-Add merge with no fast forward
-a bug happened
+Add merge without fastforward
